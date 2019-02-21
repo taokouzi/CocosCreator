@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiangb",
+    "texture": "209a6a02-4a00-4985-ae7f-1ab1b36a08bd",
+    "atlas": "",
+    "rect": [
+      26,
+      1,
+      68,
+      115
+    ],
+    "offset": [
+      0,
+      14.5
+    ],
+    "originalSize": [
+      120,
+      146
+    ]
+  }
+}

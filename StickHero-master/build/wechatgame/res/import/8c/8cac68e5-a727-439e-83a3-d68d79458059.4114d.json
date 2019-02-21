@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lingq2",
+    "texture": "279myNWcBPDYHhFUHvD8Pz",
+    "rect": [
+      0,
+      0,
+      578,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      578,
+      104
+    ]
+  }
+}

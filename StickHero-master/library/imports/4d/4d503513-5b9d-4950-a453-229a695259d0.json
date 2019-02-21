@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ans_fail",
+    "texture": "8c6ff712-a90c-4169-85d1-0924ab2bdc0b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      578,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      578,
+      104
+    ]
+  }
+}

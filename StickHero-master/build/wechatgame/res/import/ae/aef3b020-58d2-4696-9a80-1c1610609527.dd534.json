@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alert",
+    "texture": "81afN7osZCqqz3c/sOe7p+",
+    "rect": [
+      0,
+      0,
+      566,
+      471
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      566,
+      471
+    ]
+  }
+}

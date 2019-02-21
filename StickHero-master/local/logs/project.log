@@ -1,0 +1,129 @@
+2018-11-08T02:06:55.260Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-08T02:06:55.265Z - normal: checking language setting...
+2018-11-08T02:06:55.265Z - normal: Language: zh
+2018-11-08T02:07:28.352Z - success: protocol editor-framework registered
+2018-11-08T02:07:28.353Z - success: protocol app registered
+2018-11-08T02:07:28.353Z - success: protocol theme registered
+2018-11-08T02:07:28.353Z - success: protocol packages registered
+2018-11-08T02:07:28.353Z - success: protocol unpack registerred
+2018-11-08T02:07:28.353Z - success: protocol disable-commonjs registerred
+2018-11-08T02:07:29.628Z - normal: connected!
+2018-11-08T02:07:29.630Z - normal: Check project F:\xammpp\xamp\htdocs\CENTER\cocos\StickHero-master
+2018-11-08T02:07:29.633Z - normal: Initializing Cocos2d
+2018-11-08T02:07:34.893Z - normal: Initializing Asset Database
+2018-11-08T02:07:35.369Z - success: protocol uuid registerred
+2018-11-08T02:07:35.369Z - success: protocol db registerred
+2018-11-08T02:07:35.369Z - success: protocol thumbnail registerred
+2018-11-08T02:07:35.370Z - normal: Loading editor/builtin packages
+2018-11-08T02:07:35.698Z - success: anysdk loaded
+2018-11-08T02:07:36.499Z - success: assets loaded
+2018-11-08T02:07:36.507Z - success: builder loaded
+2018-11-08T02:07:36.514Z - success: cocos-analytics loaded
+2018-11-08T02:07:36.521Z - success: console loaded
+2018-11-08T02:07:36.538Z - success: hierarchy loaded
+2018-11-08T02:07:36.615Z - success: inspector loaded
+2018-11-08T02:07:36.625Z - success: keystore loaded
+2018-11-08T02:07:36.632Z - success: node-library loaded
+2018-11-08T02:07:36.635Z - success: package-asset loaded
+2018-11-08T02:07:36.638Z - success: preferences loaded
+2018-11-08T02:07:36.640Z - success: project-exporter loaded
+2018-11-08T02:07:36.734Z - success: project-importer loaded
+2018-11-08T02:07:36.737Z - success: project-settings loaded
+2018-11-08T02:07:36.740Z - success: ui-kit loaded
+2018-11-08T02:07:36.772Z - success: ui-grid loaded
+2018-11-08T02:07:36.776Z - success: scene loaded
+2018-11-08T02:07:36.777Z - success: sprite-editor loaded
+2018-11-08T02:07:36.781Z - success: store loaded
+2018-11-08T02:07:36.846Z - success: timeline loaded
+2018-11-08T02:07:36.846Z - normal: Loading builtin packages
+2018-11-08T02:07:36.940Z - success: asset-db-debugger loaded
+2018-11-08T02:07:36.945Z - success: code-editor loaded
+2018-11-08T02:07:36.989Z - success: color-picker loaded
+2018-11-08T02:07:36.993Z - success: package-manager loaded
+2018-11-08T02:07:37.037Z - success: sdkbox loaded
+2018-11-08T02:07:37.044Z - success: tester loaded
+2018-11-08T02:07:37.046Z - success: ui-kit-preview-extra loaded
+2018-11-08T02:07:37.049Z - success: ui-kit-preview loaded
+2018-11-08T02:07:37.052Z - success: ui-tree loaded
+2018-11-08T02:07:41.675Z - normal: Initializing project F:\xammpp\xamp\htdocs\CENTER\cocos\StickHero-master
+2018-11-08T02:07:41.703Z - normal: Loading packages
+2018-11-08T02:07:41.707Z - normal: Watching packages
+2018-11-08T02:07:41.772Z - normal: Run Application
+2018-11-08T02:07:44.930Z - success: preview server running at http://localhost:7456
+2018-11-08T02:07:56.621Z - normal: 1.8.1
+2018-11-08T02:12:00.206Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "F:\\xammpp\\xamp\\htdocs\\CENTER\\cocos\\StickHero-master\\build",
+  "debug": true,
+  "dest": "F:\\xammpp\\xamp\\htdocs\\CENTER\\cocos\\StickHero-master\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.examplecases",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "b62c5882-327c-4567-8568-96171f5a2f10",
+    "b86b93bb-d782-4efa-9008-17e6357df45a"
+  ],
+  "sourceMaps": false,
+  "startScene": "b62c5882-327c-4567-8568-96171f5a2f10",
+  "template": "default",
+  "title": "RedStar_WeChat1023",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxf471eb68ad4aec4d",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "37b63123-7556-47",
+  "zipCompressJs": true,
+  "project": "F:\\xammpp\\xamp\\htdocs\\CENTER\\cocos\\StickHero-master",
+  "projectName": "RedStar_WeChat1023",
+  "debugBuildWorker": false
+}
+2018-11-08T02:12:00.208Z - normal: Building F:\xammpp\xamp\htdocs\CENTER\cocos\StickHero-master
+2018-11-08T02:12:00.209Z - normal: Destination F:\xammpp\xamp\htdocs\CENTER\cocos\StickHero-master\build\wechatgame
+2018-11-08T02:12:05.610Z - normal: Delete F:\xammpp\xamp\htdocs\CENTER\cocos\StickHero-master\build\wechatgame\**\*
+2018-11-08T02:12:31.764Z - normal: Compiled project javascript file successfully
+2018-11-08T02:12:31.766Z - normal: Start building assets
+2018-11-08T02:12:31.767Z - normal: Start spawn build-worker
+2018-11-08T02:12:33.173Z - normal: Finish spawn build-worker
+2018-11-08T02:12:33.173Z - normal: Start init build-worker
+2018-11-08T02:12:36.311Z - normal: 1.8.1
+2018-11-08T02:12:36.550Z - normal: Finish init build-worker
+2018-11-08T02:12:36.551Z - normal: Start build-assets in worker
+2018-11-08T02:12:44.118Z - normal: Finish build-assets in worker
+2018-11-08T02:12:44.131Z - normal: Finish building assets
+2018-11-08T02:12:44.192Z - normal: Start building raw assets
+2018-11-08T02:12:44.193Z - normal: Start building plugin scripts
+2018-11-08T02:12:45.615Z - normal: Finish building raw assets
+2018-11-08T02:12:45.947Z - normal: Generating main.js from E:\cocos1.8.1\CocosCreator\resources\static\build-templates\shares\main.js
+2018-11-08T02:12:46.911Z - normal: Built to "F:\xammpp\xamp\htdocs\CENTER\cocos\StickHero-master\build\wechatgame" successfully

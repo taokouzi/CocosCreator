@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nav3",
+    "texture": "68da8f6c-9d0c-4f2a-8813-f7ede67689fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      665,
+      639
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      665,
+      639
+    ]
+  }
+}

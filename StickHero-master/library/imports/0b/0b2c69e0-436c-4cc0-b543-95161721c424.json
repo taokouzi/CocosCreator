@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kong",
+    "texture": "a16fdcce-243e-4a4d-91f9-60b9985000ec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      96
+    ]
+  }
+}

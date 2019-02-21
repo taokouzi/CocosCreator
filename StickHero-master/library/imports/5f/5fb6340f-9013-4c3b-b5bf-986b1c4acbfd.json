@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lingq",
+    "texture": "6a2d7cc3-cab7-4200-ae51-7100529649e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      578,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      578,
+      104
+    ]
+  }
+}

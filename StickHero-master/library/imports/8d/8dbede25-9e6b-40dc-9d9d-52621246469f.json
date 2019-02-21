@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank_guang",
+    "texture": "4bb7bdd7-97d5-4aad-bac4-6a6be8d87b9d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      273
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      273
+    ]
+  }
+}

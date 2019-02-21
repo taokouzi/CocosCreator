@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [
+    "cc",
+    "Class",
+    "extends",
+    "Component",
+    "properties",
+    "onLoad",
+    "anim",
+    "node",
+    "getComponent",
+    "Animation",
+    "label",
+    "Label",
+    "showPerfect",
+    "count",
+    "string",
+    "fadeInAction",
+    "fadeIn",
+    "moveAction",
+    "moveBy",
+    "p",
+    "fadeOutAction",
+    "fadeOut",
+    "seq",
+    "sequence",
+    "runAction",
+    "removeLabel",
+    "log",
+    "showLabel"
+  ],
+  "mappings": ";;AAEAA,GAAGC,KAAH,CAAS;AACLC,aAASF,GAAGG,SADP;;AAGLC,gBAAY,EAHP;;AAOL;AACAC,YAAQ,kBAAY;AAChB,aAAKC,IAAL,GAAY,KAAKC,IAAL,CAAUC,YAAV,CAAuBR,GAAGS,SAA1B,CAAZ;AACA,aAAKC,KAAL,GAAa,KAAKH,IAAL,CAAUC,YAAV,CAAuBR,GAAGW,KAA1B,CAAb;AACH,KAXI;AAYLC,eAZK,uBAYOC,KAZP,EAYa;AACd,aAAKH,KAAL,CAAWI,MAAX,GAAoB,QAAQD,KAA5B;AACA,YAAIE,eAAef,GAAGgB,MAAH,CAAU,GAAV,CAAnB;AACA,YAAIC,aAAajB,GAAGkB,MAAH,CAAU,CAAV,EAAYlB,GAAGmB,CAAH,CAAK,CAAL,EAAO,CAAP,CAAZ,CAAjB;AACA,YAAIC,gBAAgBpB,GAAGqB,OAAH,CAAW,CAAX,CAApB;AACA,YAAIC,MAAMtB,GAAGuB,QAAH,CAAYR,YAAZ,EAAyBE,UAAzB,EAAoCG,aAApC,CAAV;AACA,aAAKb,IAAL,CAAUiB,SAAV,CAAoBF,GAApB;AACA;AACA;AACH,KArBI;AAsBLG,eAtBK,yBAsBQ;AACT;AACA;AACAzB,WAAG0B,GAAH,CAAO,aAAP;AACH,KA1BI;AA2BLC,aA3BK,uBA2BM;AACP;AACA;AACA3B,WAAG0B,GAAH,CAAO,WAAP;AACH;AA/BI,CAAT",
+  "file": "unknown",
+  "sourcesContent": [
+    "\n\ncc.Class({\n    extends: cc.Component,\n\n    properties: {\n        \n    },\n\n    // use this for initialization\n    onLoad: function () {\n        this.anim = this.node.getComponent(cc.Animation);\n        this.label = this.node.getComponent(cc.Label);\n    },\n    showPerfect(count){\n        this.label.string = \"奖励+\" + count;\n        var fadeInAction = cc.fadeIn(0.1);\n        var moveAction = cc.moveBy(1,cc.p(0,0));\n        var fadeOutAction = cc.fadeOut(0);\n        var seq = cc.sequence(fadeInAction,moveAction,fadeOutAction);\n        this.node.runAction(seq);\n        //has bug.  web will 花屏...\n        // this.anim.play(\"perfect_anim\");\n    },\n    removeLabel(){\n        // this.node.x = -100;\n        // this.node.y = -100;\n        cc.log(\"removeLabel\");\n    },\n    showLabel(){\n        // this.node.x = cc.director.getWinSize().width/2;\n        // this.node.y = cc.director.getWinSize().height/2;\n        cc.log(\"showLabel\");\n    }\n});\n"
+  ]
+}

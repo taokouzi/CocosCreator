@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gfBox",
+    "texture": "4d7ea113-0061-44b7-afc6-9da290a3f5b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      718,
+      433
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      718,
+      433
+    ]
+  }
+}

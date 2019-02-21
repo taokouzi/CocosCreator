@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "view_bk",
+    "texture": "4f4wgZF0tNKJSAifuhzkz8",
+    "rect": [
+      0,
+      0,
+      368,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      104
+    ]
+  }
+}

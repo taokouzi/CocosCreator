@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiangba",
+    "texture": "74f35904-77a5-4f94-a78d-4ffa520147e9",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      118,
+      143
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      120,
+      146
+    ]
+  }
+}

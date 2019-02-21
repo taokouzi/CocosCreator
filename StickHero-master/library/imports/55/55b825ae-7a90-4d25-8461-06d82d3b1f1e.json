@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "overBtn1",
+    "texture": "f1b69a0b-b682-49cb-81a0-ad7d4362adcc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      104
+    ]
+  }
+}

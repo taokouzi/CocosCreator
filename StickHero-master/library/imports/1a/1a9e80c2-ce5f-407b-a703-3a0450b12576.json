@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jixc",
+    "texture": "47877899-7581-40bd-b761-6cc1b674ae3f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      104
+    ]
+  }
+}

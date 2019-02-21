@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "seccuss",
+    "texture": "331befad-e075-4626-b71c-3a7482df9840",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      711,
+      981
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      711,
+      981
+    ]
+  }
+}

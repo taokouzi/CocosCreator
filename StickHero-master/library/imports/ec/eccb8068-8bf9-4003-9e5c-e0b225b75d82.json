@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goon401",
+    "texture": "7bea9711-1514-4d2c-b19f-ea12399e6a77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      172,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      104
+    ]
+  }
+}

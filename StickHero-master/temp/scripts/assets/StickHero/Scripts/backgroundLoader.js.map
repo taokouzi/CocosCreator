@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [
+    "cc",
+    "Class",
+    "extends",
+    "Component",
+    "properties",
+    "onLoad",
+    "randomNum",
+    "Math",
+    "random",
+    "bgSprite",
+    "node",
+    "getComponent",
+    "Sprite",
+    "log",
+    "loader",
+    "loadRes",
+    "SpriteFrame",
+    "err",
+    "spriteFrame"
+  ],
+  "mappings": ";;AACA;;AAEAA,GAAGC,KAAH,CAAS;AACLC,aAASF,GAAGG,SADP;;AAGLC,gBAAY,EAHP;;AAOL;AACAC,YAAQ,kBACR;AACI,YAAIC,YAAY,QAAQ,CAACC,KAAKC,MAAL,KAAc,GAAd,GAAkB,CAAnB,IAAsB,CAAtB,GAAwB,CAAhC,CAAhB;AACA,YAAIC,WAAW,KAAKC,IAAL,CAAUC,YAAV,CAAuBX,GAAGY,MAA1B,CAAf;AACAZ,WAAGa,GAAH,CAAOJ,QAAP;;AAEAT,WAAGc,MAAH,CAAUC,OAAV,CAAkB,UAAQT,SAA1B,EAAqCN,GAAGgB,WAAxC,EAAqD,UAACC,GAAD,EAAMD,WAAN,EAAsB;AACvEP,qBAASS,WAAT,GAAuBF,WAAvB;AACH,SAFD;AAGAhB,WAAGa,GAAH,CAAOP,SAAP;AACH;AAlBI,CAAT",
+  "file": "unknown",
+  "sourcesContent": [
+    "\n// 随机生成背景\n\ncc.Class({\n    extends: cc.Component,\n\n    properties: {\n        \n    },\n\n    // use this for initialization\n    onLoad: function () \n    {\n        var randomNum = \"bg\" + ((Math.random()*100|0)%3+1);\n        var bgSprite = this.node.getComponent(cc.Sprite);\n        cc.log(bgSprite);\n        \n        cc.loader.loadRes(\"hero/\"+randomNum, cc.SpriteFrame, (err, SpriteFrame) => {\n            bgSprite.spriteFrame = SpriteFrame;\n        });\n        cc.log(randomNum);\n    },\n    // called every frame, uncomment this function to activate update callback\n    // update: function (dt) {\n\n    // },\n});\n"
+  ]
+}

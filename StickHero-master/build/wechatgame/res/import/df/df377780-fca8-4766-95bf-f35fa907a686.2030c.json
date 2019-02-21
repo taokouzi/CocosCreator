@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fr_rka",
+    "texture": "2d/8GGTJdH6a4A/PDgvKVI",
+    "rect": [
+      0,
+      0,
+      268,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      86
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phb_g",
+    "texture": "27RyXJ5gRHwIBdiGlO0HJK",
+    "rect": [
+      0,
+      0,
+      620,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      620,
+      128
+    ]
+  }
+}

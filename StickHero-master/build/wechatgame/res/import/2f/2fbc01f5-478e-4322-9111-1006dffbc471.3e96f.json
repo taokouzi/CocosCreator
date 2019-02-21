@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiangba",
+    "texture": "7481kEd6VPlKeNT/pSAUfp",
+    "rect": [
+      1,
+      1,
+      118,
+      143
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      120,
+      146
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiangb",
+    "texture": "20mmoCSgBJha5/GrGzagi9",
+    "rect": [
+      26,
+      1,
+      68,
+      115
+    ],
+    "offset": [
+      0,
+      14.5
+    ],
+    "originalSize": [
+      120,
+      146
+    ]
+  }
+}
